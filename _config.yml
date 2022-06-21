@@ -1,13 +1,14 @@
 # John Doe Jekyll Theme Config
 
-title: John Doe Jekyll
-email: your-email@example.com
+title: Serghei Cebotari
+email: serghei@cebotari.ru
 description: >- # this means to ignore newlines until "baseurl:"
-  The John Doe template converted into a Jekyll theme.
+  Serghei Cebotari's Homepage.
+  Based on John Doe Jekyll Theme. Hosted on Github Pages
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: https://cebotari.ru # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: noname
+github_username:  schebotar
 host: 0.0.0.0
 
 # Build settings
